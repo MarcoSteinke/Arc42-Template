@@ -2,6 +2,7 @@
 This repository includes my template, which I am using for the documentation of software systems. For more information on Arc42-Documentation, use the provided resources.
 
 Find out more about Arc42-Documentation using https://arc42.org/overview[this] link.
+
 # Arc42 Documentation:
 
 ifdef::env-name[:relfilesuffix: .adoc]
