@@ -1,1 +1,20 @@
 # 12. Glossary:
+
+In diesem Glossar werden alle in unserer Geschäftslogik relevanten Begriffe gesammelt.
+
+(Beispiele die nicht direkt mit einem Projekt zu tun haben)
+
+[cols="1,1"]
+|===
+|`Begriff`
+|`Beschreibung`
+
+|Benutzer
+|Alle Personen, welche die Anwendung verwenden, sind Benutzer
+
+|Organisator
+|Personen, welche die Datenhaltung des Systems betreiben und Benutzer verwalten
+
+|Transaktion
+|Die Übertragung eines monetären Wertes zwischen zwei Personen
+|=== 
